@@ -1,0 +1,2 @@
+# Smart-Sensing-Human-Activity-Recognition-via-Smartphone-Data
+This project classifies six activities using the "Human Activity Recognition Using Smartphones" dataset with accelerometer and gyroscope data from 30 participants. Models like decision trees, random forests, and SVMs achieved high accuracy despite overlapping motion patterns, highlighting the potential of smartphones for activity recognition.
